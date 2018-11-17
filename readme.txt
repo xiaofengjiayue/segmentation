@@ -1,1 +1,1 @@
-This project is a code set of segmentation task.2
+This project is a code set of segmentation task.
